@@ -1,0 +1,281 @@
+{
+  "HorizonLayout":[
+    {
+      "layout":"bannerImage",
+      "isSlider":true,
+      "isBlur":true,
+      "autoPlay":false,
+      "upHeight":79,
+      "marginLeft":0,
+      "marginBottom":0,
+      "items":[
+        {
+          "image":"https://cartsitu.com/wp-content/uploads/2021/12/limon-rectangle-kitchen-pack-9pices.png",
+          "category":"34",
+          "padding":8.8
+        },
+        {
+          "image":"https://cartsitu.com/wp-content/uploads/2021/12/bath-accessory-5-pcs-1.png",
+          "category":"42",
+          "padding":8.8
+        },
+        {
+          "padding":8.8,
+          "category":"40",
+          "image":"https://cartsitu.com/wp-content/uploads/2021/12/3035sarina-picnic-basket-1.jpg"
+        }
+      ],
+      "fit":"cover",
+      "marginRight":0,
+      "showBackground":true,
+      "height":0.3,
+      "intervalTime":4,
+      "design":"swiper",
+      "radius":28.6,
+      "pos":100,
+      "marginTop":0
+    },
+
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": true,
+      "size": 1.2,
+      "radius": 50.0,
+      "noBackground": true,
+      "columns": 4,
+      "padding": 10.0,
+      "items": [
+        {
+          "category":63 ,
+          "image": "https://cartsitu.com/wp-content/uploads/2021/12/daging-lembu-pejal-tanpa-lemak.jpg",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 58,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Choc-Chip-Cookie.png",
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 41,
+          "image": "https://cartsitu.com/wp-content/uploads/2021/12/medium-fruit-basket-with-leg.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 34,
+          "image": "https://cartsitu.com/wp-content/uploads/2021/12/rectangle-sarina-spice-jar-no-1.png",
+          "originalColor": true
+        },
+        {
+          "category": 36,
+          "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/3ed738e310d12461b4ce4b36e5e910c8/cate5.png",
+          "originalColor": true
+        },
+        {
+          "category": 50,
+          "image": "https://cartsitu.com/wp-content/uploads/2021/12/3235sahel-picnic-basket-1.jpg",
+          "originalColor": true
+        },
+        {
+          "category": 60,
+          "image": "https://cartsitu.com/wp-content/uploads/2021/12/ikan-talapia-merah.jpg",
+          "originalColor": true
+        },
+        {
+          "category": 67,
+          "image": "https://cartsitu.com/wp-content/uploads/2021/12/Tahu-678x381-1.jpg",
+          "originalColor": true
+        }
+      ]
+    }
+  ],
+  "Setting":{
+    "TabBarConfig":{
+      "enable":true,
+      "isSafeArea":true,
+      "color":null,
+      "colorCart":"fff62c2c",
+      "colorIcon":"ff191919",
+      "colorActiveIcon":"fff62c2c",
+      "iconSize":22.0,
+      "indicatorStyle":"none",
+      "showFloatingClip":true,
+      "showFloating":false,
+      "radiusTopLeft":0.0,
+      "radiusTopRight":0.0,
+      "radiusBottomLeft":0.0,
+      "radiusBottomRight":0.0,
+      "paddingLeft":0.0,
+      "paddingRight":0.0,
+      "paddingBottom":0.0,
+      "paddingTop":0.0,
+      "marginTop":0.0,
+      "marginBottom":0.0,
+      "marginLeft":0.0,
+      "marginRight":0.0,
+      "TabBarIndicator":{
+        "height":null,
+        "tabPosition":"bottom",
+        "topRightRadius":null,
+        "topLeftRadius":null,
+        "bottomRightRadius":null,
+        "bottomLeftRadius":null,
+        "color":null,
+        "horizontalPadding":null,
+        "verticalPadding":null,
+        "strokeWidth":null,
+        "radius":null,
+        "distanceFromCenter":null,
+        "paintingStyle":"fill"
+      },
+      "TabBarFloating":{
+        "position":0,
+        "radius":null,
+        "color":null,
+        "location":null,
+        "width":null,
+        "height":null,
+        "elevation":null,
+        "floatingType":"rectangle"}
+    },
+    "MainColor":"fff62c2c",
+    "ProductListLayout":"list",
+    "ShowChat":false,
+    "ProductDetail":"simpleType",
+    "StickyHeader":true,
+    "FontHeader":"ABeeZee"
+  },
+
+  "TabBar": [
+    {
+      "layout": "search",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "vendors",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "home",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "icon": "assets/icons/tabs/icon-lists.png",
+      "layout": "lives",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 18
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ],
+  "AppBar":{
+    "showOnScreens":["home"],
+    "items":[
+      {
+        "type":"search",
+        "action":"search",
+        "pos":400,
+        "title":"Find your product",
+        "textOpacity":0.5,
+        "alignment":"center",
+        "fontSize":16.0,
+        "fontFamily":"CupertinoIcons",
+        "fontWeight":"400",
+        "icon":"search",
+        "iconSize":20.0,
+        "size":40.0,
+        "radius":100.0,
+        "backgroundColor":"a000000",
+        "marginLeft":4.0,
+        "marginRight":4.0,
+        "marginTop":4.0,
+        "marginBottom":4.0,
+        "paddingLeft":16.0,
+        "paddingRight":16.0,
+        "paddingTop":4.0,
+        "paddingBottom":4.0,
+        "key":"kr72qonmst"
+      }
+    ]
+  },
+  "VerticalLayout":{
+    "isVertical":true,
+    "name":"Recent Collections",
+    "layout":"default"
+  },
+  "Drawer":{
+    "items":[
+      {
+        "type":"home",
+        "show":true
+      },
+      {
+        "type":"blog",
+        "show":false
+      },
+      {
+        "type":"login",
+        "show":true
+      },
+      {
+        "type":"category",
+        "show":true
+      },
+      {
+        "type":"categories",
+        "show":false
+      },
+      {
+        "type":"cart",
+        "show":false
+      },
+      {
+        "type":"profile",
+        "show":false
+      },
+      {
+        "type":"web",
+        "show":false
+      }
+    ],
+    "logo":"assets/images/logo.png",
+    "subDrawerItem":{
+    },
+    "key":"zxfbvunf27"}}
